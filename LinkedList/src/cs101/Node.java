@@ -9,7 +9,7 @@ public class Node {
 	// constructor
 	public Node(String new_data) {
 		this.data = new_data;
-		next = null;
+		this.next = null;
 	}
 
 	// helper code, do not modify
